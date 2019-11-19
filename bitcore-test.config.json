@@ -20,8 +20,8 @@
           "rpc": {
             "host": "bitcoin",
             "port": 8333,
-            "username": "bitcorenodetest",
-            "password": "local321"
+            "username": "bitcr",
+            "password": "Crcoin2019!"
           }
         }
       }
